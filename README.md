@@ -1,3 +1,7 @@
+## Mitsos Daras Luthier
+
+This is the website of the e-museum and personal page of Mitsos Daras, a luthier that resonates with the rhythm of nature.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mitsosdaras/mitsosdaras.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
